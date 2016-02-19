@@ -1,5 +1,5 @@
 namespace Page {
-  export var b = 2;
+  export var b = 3;
   
 }
 
