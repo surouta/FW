@@ -1,0 +1,29 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/.svn": true,
+    "**/*.js": {
+      "when": "$(basename).ts"
+    },
+    "**/*.d.ts": {
+      "when": "$(basename).ts"
+    },
+    "**/*.map":true,
+    "**/hooks":true,
+    "**/merges":true,
+    "**/node_modules":true,
+    "**/platforms":true,
+    "**/plugins":true
+  },
+  	"search.exclude": {
+		"**/node_modules": true,
+		"**/bower_components": true,
+    "**/hooks":true,
+    "**/merges":true,
+    "**/platforms":true,
+    "**/plugins":true
+	}
+}
