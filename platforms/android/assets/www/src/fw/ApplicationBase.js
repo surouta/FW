@@ -5,7 +5,7 @@ define(["require", "exports"], function (require, exports) {
         ApplicationBase.prototype.initialize = function () {
             var initializing = Q.defer();
             initializing.resolve(null);
-            $(document.body).append($('<div>').text('iniaaiasss'));
+            $(document.body).append($('<div>').text('iniia'));
             return initializing.promise;
         };
         return ApplicationBase;

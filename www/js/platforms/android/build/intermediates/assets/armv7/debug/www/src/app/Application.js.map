@@ -1,1 +1,0 @@
-{"version":3,"file":"Application.js","sourceRoot":"www/src/","sources":["platforms/android/build/intermediates/assets/armv7/debug/www/src/app/Application.ts"],"names":["Application","Application.constructor"],"mappings":";;;;;;IAEA;QAA0BA,+BAAeA;QAAzCA;YAA0BC,8BAAeA;QAEzCA,CAACA;QAADD,kBAACA;IAADA,CAACA,AAFD,EAA0B,eAAe,EAExC;IAED,OAAU,WAAW,CAAC"}

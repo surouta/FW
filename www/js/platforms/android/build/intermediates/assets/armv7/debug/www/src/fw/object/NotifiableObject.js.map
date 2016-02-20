@@ -1,1 +1,0 @@
-{"version":3,"file":"NotifiableObject.js","sourceRoot":"www/src/","sources":["platforms/android/build/intermediates/assets/armv7/debug/www/src/fw/object/NotifiableObject.ts"],"names":["NotifiableObject","NotifiableObject.constructor"],"mappings":";IAAA;QACEA;YACEC,KAAKA,CAACA,GAAGA,CAACA,CAACA;QACbA,CAACA;QACHD,uBAACA;IAADA,CAACA,AAJD,IAIC;IAED,OAAS,gBAAgB,CAAC"}

@@ -6,9 +6,6 @@
         "preserveConstEnums": true,
         "sourceMap": true,
         "target": "es5",
-        "newLine": "CRLF",
-        "outDir": "www/js/",
-        "mapRoot": ".",
-        "sourceRoot": "www/src"
+        "newLine": "CRLF"
     }
 }

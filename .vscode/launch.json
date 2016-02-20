@@ -1,6 +1,20 @@
 {
 	"version": "0.2.0",
 	"configurations": [
+    {
+            "name": "Launch index.html",
+            "type": "chrome",
+            "request": "launch",
+            "file": "www/index.html"
+        },
+        {
+            "name": "Launch localhost with sourcemaps",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost/index.html",
+            "webRoot": "./www",
+            "sourceMaps": true
+        },
 		{
 			"name": "Run Android on device",
 			"type": "cordova",

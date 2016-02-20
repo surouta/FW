@@ -1,7 +1,7 @@
 define(["require", "exports"], function (require, exports) {
     var Page;
     (function (Page) {
-        Page.b = 3;
+        Page.b = 2;
     })(Page || (Page = {}));
     return Page;
 });
